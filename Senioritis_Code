@@ -1,0 +1,275 @@
+{
+    "frames": {
+        "exit-survey": {
+            "kind": "exp-lookit-exit-survey",
+            "debriefing": {
+                "text": "You and your child helped us understand how children react to probability and how it relates to number and math performance. We hope that you enjoyed the study and know how thankful we are for your participation. Our goal of discovering how young children learn about the world would not be possible without volunteers like you! Please tell your friends about your experience. We are always looking for new child scientists to join our community! To thank you for your participation, we'll be emailing you a $5 Amazon gift card - this should arrive in your inbox within the next week after we confirm your consent video and check that your child is in the age range for this study. (If you don't hear from us by then, feel free to reach out!) If you participate again with another child in the age range, you'll receive one gift card per child.",
+                "title": "Thank you for your participation!"
+            }
+        },
+        "instructions": {
+            "kind": "exp-lookit-text",
+            "blocks": [
+                {
+                    "emph": true,
+                    "text": "Your child does not need to be with you yet! First, let's go over what will happen in this study.",
+                    "title": "Overview of the 'Lucky Stars' Study"
+                },
+                {
+                    "text": "During this study, your child will count different sets of dots and spin a fortune wheel with the chance of winnning a lucky star. There will be two practice trials followed by four trials for each of the four fortune wheels. You will have a chance to select a video privacy level at the end of the study, and you can leave at any point by pressing F1 or ctrl-X. You will see a little box pop up asking if you really want to end the study, and taking you straight to the exit survey if so. If you close this window/tab, you will get a generic warning (it's not possible to override that!) and if you choose to stay you will see that same box."
+                },
+                {
+                    "text": "Your child will have a chance to count one set of dots in the pre-practice trial before beginning the practice trials."
+                },
+                {
+                    "text": "The entire study should take no more than 30 minutes."
+                }
+            ],
+            "showPreviousButton": false
+        },
+        "video-config": {
+            "kind": "exp-video-config",
+            "troubleshootingIntro": "If you're having trouble getting your audio or video setup, please feel free to contact us at jinjing.jenny.wang@gmail.com and we'd be happy to help!"
+        },
+        "video-consent": {
+            "kind": "exp-lookit-video-consent",
+            "PIName": "Jenny Wang",
+            "datause": "We are primarily interested in your child's understanding of probability and how it relates to their number and math performance. A research assistant will watch your video to record your child's responses in the 'test-trials'.",
+            "payment": "After you finish the study, we will email you a $5 Amazon e-gift card within approximately one week. To be eligible for the gift card your child must be in the age range for this study, you need to submit a valid consent statement, and we need to see that there is a child with you. But we will send a gift card even if you do not finish the whole study or we are not able to use your child's data! There are no other direct benefits to you or your child from participating, but we hope you will enjoy the experience and we thank you for your contribution to science.",
+            "purpose": "How do children react to probabilities? This study will help us find out whether differences in probability will improve children's performance on math tasks",
+            "PIContact": "Jenny Wang jinjing.jenny.wang@gmail.com.",
+            "procedures": "For this study, your child will play a counting game to help Winnie the Pooh and Piglet figure out who has more dots. Your child will first identify the colors of Winnie the Pooh and Piglet. Then, they will recieve instructions on the probability of getting a star based on whether the wheel lands on Yellow or Gray in a pre-practice trial. Once completed and they agree to practice, they will recieve instructions on the probability of winning a star based on the amount of Yellow or Gray on the fortune wheel in the practice trial. Then, they will choose to count or skip two sets of dots. Whenever your child finds the right answer, they will spin the fortune wheel with a chance of winning a lucky star. For the real game, there will be four different sets of dots for each of the four fortune wheels. Before beginning each different trial, an image of Mickey Mouse will appear which gives the child the opportunity to take a break if needed, or continue to the next trial. The entire study should take approximately 30 minutes. There are no anticipated risks associated with participating.",
+            "institution": "Rutgers University - Newark",
+            "additional_segments": [
+                {
+                    "text": "Lookit is a U.S. organization and all information gathered from the website is stored on servers based in the U.S. Therefore, your video recordings are subject to U.S. laws, such as the US Patriot Act. This act allows authorities access to the records of internet service providers. If you choose to participate in this study, you understand that your video recording will be stored and accessed in the USA. The security and privacy policy for Lookit can be found at the following link: <a href='https://lookit.mit.edu/privacy/' target='_blank'>https://lookit.mit.edu/privacy/</a>.",
+                    "title": "US Patriot Act Disclosure"
+                }
+            ],
+            "research_rights_statement": "You are not waiving any legal claims, rights or remedies because of your participation in this research study.  If you feel you have been treated unfairly, or you have questions regarding your rights as a research subject, you may contact the Rutgers University Institutional Review Board for the Protection of Human Subjects (lszabo@ored.rutgers.edu)."
+        },
+        "video-preview": {
+            "kind": "exp-lookit-stimuli-preview",
+            "blocks": [
+                {
+                    "text": "During the videos, we'll ask that you hold your child over your shoulder like this, so that you face away from the screen.",
+                    "image": {
+                        "alt": "Father holding child looking over his shoulder",
+                        "src": "https://s3.amazonaws.com/lookitcontents/exp-physics/OverShoulder.jpg"
+                    }
+                },
+                {
+                    "text": "The reason we ask this is that your child is learning from you all the time. Even if he or she can't see where you're looking, you may unconsciously shift to face the \"unexpected\" events and influence your child's attention. We want to make sure we're measuring your child's own intuitions, rather than yours! (We know YOU know whether things should fall up or down.)"
+                },
+                {
+                    "text": "If you'd like to see the videos your child will be shown, you can take a look ahead of time now. It's important that you do this WITHOUT your child, so that the videos will still be new to him or her!"
+                },
+                {
+                    "text": "(This is an 'exp-lookit-stimuli-preview' frame.)"
+                }
+            ],
+            "stimuli": [
+                {
+                    "video": [
+                        {
+                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/example_intro.webm",
+                            "type": "video/webm"
+                        },
+                        {
+                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/example_intro.mp4",
+                            "type": "video/mp4"
+                        }
+                    ],
+                    "caption": "Before each pair of event videos, a woman introduces the object that will appear. Here's an example."
+                },
+                {
+                    "video": [
+                        {
+                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/0_introsA.webm",
+                            "type": "video/webm"
+                        },
+                        {
+                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/0_introsA.mp4",
+                            "type": "video/mp4"
+                        }
+                    ],
+                    "caption": "Here are the other object introduction videos that might be shown. "
+                }
+            ],
+            "skipButtonText": "Skip preview",
+            "previewButtonText": "Preview the videos (my child cannot see the screen)",
+            "showPreviousButton": true
+        },
+        "video-quality": {
+            "kind": "exp-video-config-quality",
+            "title": "Webcam setup for preferential looking",
+            "introText": "We'll be analyzing where your child chooses to look during the videos--but only if we can tell where that is! Please check each of the following to ensure we're able to use your video: (This is an exp-video-config-quality frame. You can customize what the instructions are, whether participants have to check them off, and whether they have to create and play back a sample recording. Next, we will go through a few trials of the intuitive physics study, which is a preferential looking study for infants, and then this example study will be done!",
+            "showRecordMenu": true,
+            "requireTestVideo": true,
+            "completedItemText": "Did it!",
+            "instructionBlocks": [
+                {
+                    "text": "<strong>Make sure the webcam you're using is roughly centered</strong> relative to this monitor. This makes it much easier for us to tell whether your child is looking to the left or right!",
+                    "image": {
+                        "alt": "Example images of using centered external webcam on monitor or built-in webcam on laptop.",
+                        "src": "https://s3.amazonaws.com/lookitcontents/website/centering.png"
+                    }
+                },
+                {
+                    "text": "<strong>Turn off any other monitors</strong> connected to your computer, besides the one with the centered webcam. (If there's just one monitor, you're all set!)",
+                    "image": {
+                        "alt": "Example images showing laptop screen turned off if using external monitor and webcam, or external monitor turned off if using built-in webcam and laptop screen.",
+                        "src": "https://s3.amazonaws.com/lookitcontents/website/monitors.png"
+                    }
+                }
+            ],
+            "requireItemConfirmation": true,
+            "recordingInstructionText": "You should be able to see your camera view above. You can create and view a short recording to see how your setup looks."
+        },
+        "example-survey": {
+            "kind": "exp-lookit-survey",
+            "formSchema": {
+                "schema": {
+                    "type": "object",
+                    "title": "Here's a simple example survey! (This is an 'exp-lookit-survey' frame.)",
+                    "properties": {
+                        "age": {
+                            "type": "integer",
+                            "title": "Age",
+                            "maximum": 200,
+                            "minimum": 0,
+                            "required": true
+                        },
+                        "name": {
+                            "type": "string",
+                            "title": "Name",
+                            "required": true
+                        },
+                        "species": {
+                            "enum": [
+                                "dog",
+                                "cat",
+                                "fish",
+                                "bird",
+                                "raccoon"
+                            ],
+                            "type": "string",
+                            "title": "What type of animal?",
+                            "default": ""
+                        }
+                    }
+                },
+                "options": {
+                    "fields": {
+                        "age": {
+                            "numericEntry": true
+                        },
+                        "name": {
+                            "placeholder": "a name..."
+                        },
+                        "species": {
+                            "type": "radio",
+                            "message": "Seriously, what species??",
+                            "validator": "required-field"
+                        }
+                    }
+                }
+            },
+            "nextButtonText": "Moving on..."
+        },
+        "pref-phys-videos": {
+            "kind": "choice",
+            "sampler": "prefphys",
+            "MAX_VIDEOS": 2
+        },
+        "final-instructions": {
+            "kind": "exp-lookit-instructions",
+            "blocks": [
+                {
+                    "title": "This is an 'exp-lookit-instructions' frame.",
+                    "listblocks": [
+                        {
+                            "text": "See https://lookit.github.io/ember-lookit-frameplayer/classes/ExpLookitInstructions.html"
+                        },
+                        {
+                            "text": "You can display any text, audio, images, and video you want, and can optionally require participants to play audio/video segments to move on. You can also choose whether to display the webcam."
+                        }
+                    ]
+                },
+                {
+                    "text": "It's important that we can see you",
+                    "image": {
+                        "alt": "Father holding child looking over his shoulder",
+                        "src": "https://s3.amazonaws.com/lookitcontents/exp-physics/OverShoulder.jpg"
+                    },
+                    "title": "Camera position"
+                },
+                {
+                    "text": "Here's some audio you have to play",
+                    "title": "Test",
+                    "mediaBlock": {
+                        "text": "You should hear 'Ready to go?'",
+                        "isVideo": false,
+                        "sources": [
+                            {
+                                "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/audio/ready.mp3",
+                                "type": "audio/mp3"
+                            },
+                            {
+                                "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/audio/ready.ogg",
+                                "type": "audio/ogg"
+                            }
+                        ],
+                        "mustPlay": true,
+                        "warningText": "Please try playing the sample audio."
+                    }
+                },
+                {
+                    "text": "Here's a video you don't have to play!",
+                    "title": "Test",
+                    "mediaBlock": {
+                        "text": "Look at that.",
+                        "isVideo": true,
+                        "sources": [
+                            {
+                                "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/7_control_same.mp4",
+                                "type": "video/mp4"
+                            },
+                            {
+                                "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/7_control_same.webm",
+                                "type": "video/webm"
+                            }
+                        ],
+                        "mustPlay": false
+                    }
+                }
+            ],
+            "showWebcam": true,
+            "webcamBlocks": [
+                {
+                    "title": "Some webcam instructions",
+                    "listblocks": [
+                        {
+                            "text": "Like this!"
+                        },
+                        {
+                            "text": "Be careful your webcam does not have tape over it"
+                        }
+                    ]
+                }
+            ],
+            "nextButtonText": "Next"
+        }
+    },
+    "sequence": [
+        "video-config",
+        "video-consent",
+        "instructions",
+        "video-preview",
+        "example-survey",
+        "final-instructions",
+        "video-quality",
+        "pref-phys-videos",
+        "exit-survey"
+    ]
+}
