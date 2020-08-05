@@ -1,0 +1,49 @@
+
+IMAGES:
+
+To access images just add https://sites.sas.rutgers.edu/cognition/research/senioritis/ to img/IMAGE.PNG for each of them. 
+
+
+var instructions_ANS ={
+              type: 'instructions',
+              pages: [
+                '<img src="img/t_setup.png" height='+image_size[1]+'px>',
+                '<img src="img/t_fullscreen.png" height='+image_size[1]+'px>',
+                '<img src="img/t_layout.png" height='+image_size[1]+'px>',
+                '<img src="img/t_spotlight.png" height='+image_size[1]+'px>',
+                '<img src="img/bunny.png" height='+image_size[0]+'px><br>',
+                '<img src="img/Pooh.png" height='+image_size[1]+'px><br>',
+                '<img src="img/Piglet.png" height='+image_size[1]+'px><br>',
+                '<img src="img/Pooh.png" height='+image_size[1]+'px>'+
+                '<img src="img/Poohbox.png" height='+image_size[1]+'px>',
+                '<img src="img/Pooh.png" height='+image_size[1]+'px>'+
+                '<img src="img/Pooh_2_1.png" height='+image_size[1]+'px>',
+                '<img src="img/Piglet.png" height='+image_size[1]+'px>'+
+                '<img src="img/Pigletbox.png" height='+image_size[1]+'px>',
+                '<img src="img/Piglet.png" height='+image_size[1]+'px>'+
+                '<img src="img/Piglet_3_1.png" height='+image_size[1]+'px>',
+                '<img src="img/Pooh.png" width='+pic_width+'px>'+
+                '<img src="img/Pooh_2_1.png" height='+image_size[1]+'px>'+
+                '<img src="img/divider.png" height='+image_size[1]+'px>'+
+                '<img src="img/Piglet_3_1.png" height='+image_size[1]+'px>'+
+                '<img src="img/Piglet.png" width='+pic_width+'px>',
+                '<img src="img/spin50.gif" height='+image_size[1]+'px>',
+                //'<img src="img/reveal.gif" height='+image_size[1]+'px>',
+                '<img src="img/spin_50_1_1.png" height='+image_size[1]+'px>',
+                '<img src="img/ystar_m.gif" height='+image_size[0]+'px>',
+                '<img src="img/spin_50_0_1.png" height='+image_size[1]+'px>',
+                'Sorry, no star this time!',
+                '<img src="img/GoodJob1.png" width='+image_size[1]+'px>'
+              ],
+              show_clickable_nav: false,
+              on_finish: function(data){
+                condition_count=practice_condition;
+              }
+            }
+AUDIO:
+
+GitHub link:
+
+https://github.com/Ar1780/lookit-stimuli-template/tree/master/mp3
+
+

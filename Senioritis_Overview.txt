@@ -1,0 +1,9 @@
+Theory: children are able to "plan ahead," rationally distribute their cognitive resource based on the expected changes in its utility, taking into consideration the cost/reward of future unknown situations, rather than only being able to consider the problem at hand
+ 
+Design: children answer questions that vary in difficulty (e.g., comparing 4 vs. 5 is easy, comparing 9 vs. 10 is harder, comparing 19 vs. 20 is very hard), and they have either a 25%, 50%, or 75% chance of receiving a star when they answer correctly. 
+ 
+Hypothesis: children can calculate the utility of their effort (cognitive effort x expected reward), so the bigger the chance (for reward), the more likely it is for children to spend effort to try to solve the harder problems.
+ 
+Method: children play a number game (counting and comparing who has more; maybe use symbolic addition for older kids) with the researcher. They always receive a voiced feedback on whether their answer is right. Afterwards, if they answered correctly, they get to spin a fortune wheel. They receive a star if it shows so on the fortune wheel.
+
+

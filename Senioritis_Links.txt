@@ -1,0 +1,45 @@
+Helpful Lookit Links:
+ 
+Lookit Manual:
+https://lookit.readthedocs.io/_/downloads/en/develop/pdf/
+ 
+GitHub: 
+https://github.com/lookit/lookit-stimuli-template
+https://lookit.github.io/lookit-frameplayer-docs/classes/Exp-frame-select.html
+ 
+Slack:
+https://mit.enterprise.slack.com/?no_sso=1&redir=%2Fr-t470158583696%3Fredir%3D%252Fmessages
+ 
+Basic JSON Instructions: 
+https://www.json.org/json-en.html
+
+
+Experiment links:
+
+Experiment:
+https://sites.sas.rutgers.edu/cognition/research/senioritis/RutgersCountGame.html
+ 
+Recordings Folder Link:
+https://drive.google.com/drive/u/0/folders/1uCwNxrMLpVbbcgpNRZR7HG9fZZceZQbR
+
+Calendly page:
+https://calendly.com/cognitionandlearning/60min
+
+Booking page:
+https://outlook.office365.com/owa/calendar/cognition.and.learning@psychology.rutgers.edu/bookings/
+ 
+Qualtrics Demographics Link: 
+https://rutgers.ca1.qualtrics.com/jfe/form/SV_dmPoKBiFBCzj0qh
+ 
+Informed Consent Link:
+https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MTZcLRUZVpJ6ap
+ 
+ 
+Stimuli source (open):
+http://pngimg.com/imgs/heroes/winnie_pooh/
+
+Paragraph and icon for Childrenhelpingscience https://docs.google.com/document/d/1f3Mn04_JwIaTkegQKnjetZktC8CjMMBjg9Edrp_smoA/edit?usp=sharing
+
+Pre-registration form https://docs.google.com/document/d/1FRAvB0jvmi68uDoBR_5wZx9OLIGaJcads_ldbna4xf0/edit?usp=sharing)
+
+

@@ -1,0 +1,8 @@
+* Press "F" for Pooh and "J" for Piglet
+* If children say "I don't know" after counting, ask again Skip/Count or Count/Skip, in the same order as the condition they are in.
+            And if they choose to skip this way, after counting, press S. 
+- If child seems to give an answer without counting, say "Remember, this is a counting game. Have you counted?"
+* Remember to counterbalance your encouragements as well, when children say "I don't know" be consistent with the order
+* Make sure you have the screen split in two, so you can see both the child and the game (in order to see the child while playing the game, just pin their screen in the Google Meet)
+* If they REALLY don't want to count in the pre-trial, you can say something like "Well, look.. when you choose to count in the real game and get it right, you'll see this..." 
+* It's okay to be a little nervous. Remember that the kids just want to have fun! :) 
