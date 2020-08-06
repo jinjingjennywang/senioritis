@@ -155,10 +155,10 @@
                     "kind": "exp-lookit-stimuli-preview"
                     "blocks": [
                         {
-                           "text": 
+                           "text": Look, this is the wheel you will spin later if your answer is right. Do you see that there is half YELLOW and half GRAY? That means, sometimes it will stop at YELLOW and you get a star, but sometimes it will stop at GRAY and you won’t get any stars." 
                            "image": {
-                               "alt": 
-                               "src": 
+                               "alt": "Fortune Wheel"
+                               "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/spin50.gif"
                  },
                             "text": 
                             "image": {
