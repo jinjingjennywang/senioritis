@@ -52,52 +52,146 @@
             "kind": "exp-lookit-stimuli-preview",
             "blocks": [
                 {
-                    "text": "During the videos, we'll ask that you hold your child over your shoulder like this, so that you face away from the screen.",
+                    "text": "During the videos, we'll ask that your child is facing the camera like this, so that we can hear and see them.",
                     "image": {
-                        "alt": "Father holding child looking over his shoulder",
-                        "src": "https://s3.amazonaws.com/lookitcontents/exp-physics/OverShoulder.jpg"
+                        "alt": "Child looking at camera",
+                        "src": ""
                     }
                 },
                 {
-                    "text": "The reason we ask this is that your child is learning from you all the time. Even if he or she can't see where you're looking, you may unconsciously shift to face the \"unexpected\" events and influence your child's attention. We want to make sure we're measuring your child's own intuitions, rather than yours! (We know YOU know whether things should fall up or down.)"
+                    "text": "The reason we ask this is that in order for us to be able to accurately keep track of responses, we need to be able to understand your child's answers."
                 },
                 {
-                    "text": "If you'd like to see the videos your child will be shown, you can take a look ahead of time now. It's important that you do this WITHOUT your child, so that the videos will still be new to him or her!"
+                    "text": "Before we begin the game, we will be showing your child some examples of what they will see later on in the practice trials and in the real game."
                 },
+                "instructions1": {
+            "kind": "exp-lookit-instructions",
+            "blocks": [
                 {
-                    "text": "(This is an 'exp-lookit-stimuli-preview' frame.)"
-                }
+                    "title": "Instructions",
+                    "listblocks": [
+                        {
+                            "text": "Today we'll be playing a number game with some friends. If you figure out who has more, you can win some stars!"
+                        },
+                        {
+                            "text": "Let's see if you can win more stars than other kids!"
+                        },
+                       "instructions2": {
+                       "kind": "exp-lookit-instructions",
+                       "blocks": [
+                            {
+                                "title": "Instructions",
+                                "listblocks":[
+                                    {
+                                        "text": "This is our friend Pooh bear. What color is Pooh bear?",
+                                        "image": {
+                                            "alt": "Pooh"
+                                            "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/Pooh.png"
+                               },
+                                "text": "This is our friend Piglet. What color is Piglet?"
+                                "image": {
+                                "alt": "Piglet"
+                                "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/Piglet.png"
+                               },
+                               "text": "Pooh will have some yellow/orange dots like this."
+                               "image": {
+                               "alt": "Pooh dots"
+                               "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/Pooh_2_1.png"
+                        },
+                        {
+                               "text": Your job is to help them figure out who has more.You can choose to count and answer, or skip and see the next one. If you choose to skip, you don’t get any stars. So do you want to count or skip for this one?" 
+                               "image": {
+                               "alt": "Pooh and Piglet dots"
+                               "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/Pooh_2_1.png"
+                        },
+                        {
+                               "audio": [
+                        {
+                            "src": "https://raw.githubusercontent/Ar1780-lookit-stimuli-template/master/mp3/Howmany_Pooh.mp3",
+                            "type": "audio/mp3"
+                        },
+                        {
+                            "src": "https://raw.githubusercontent/Ar1780-lookit-stimuli-template/master/mp3/Howmany_Piglet.mp3",
+                            "type": "audio/mp3"
+                        },
+                        {
+                            "src": "https://raw.githubusercontent/Ar1780-lookit-stimuli-template/master/mp3/Whichmore.mp3"
+                            "type": "audio/mp3"
+                               
+                   },
+                   "text": "Everytime you get it right, you will get to spin this fortune wheel. Lets see where it stops this time!"
+                   "image": {
+                   "alt": "Fortune Wheel"
+                   "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/spin50.gif"
+                  },
+                  "text": "It stops at YELLOW!"
+                  "image": {
+                  "alt": "Fortune Wheel"
+                  "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/spin_50_1_1.png"
+                },
+                "text": "When it stops at YELLOW, you will get a star!"
+                "image": {
+                "alt": "Star"
+                "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/ystar_m.gif"
+                },
+                "text": "But if it stops at gray..."
+                "image": {
+                "alt": "Gray"
+                "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/"
+                },
+                "text": "You will not get a star... Sorry no star this time!"
+                "image": {
+                "alt": "No Star"
+                "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/spin_50_0_1.png"
+                },
+                "text": "Let's see how many stars you can win at the end! Ready to practice?"
+                "image": {
+                "alt": "Mickey"
+                "src": "https://sites.sas.rutgers.edu/cognition/research/senioritis/img/GoodJob1.png"
+                
             ],
+
+                "image-preview" {
+                    "kind": "exp-lookit-stimuli-preview"
+                    "blocks": [
+                        {
+                           "text": 
+                           "image": {
+                               "alt": 
+                               "src": 
+                 },
+                            "text": 
+                            "image": {
+                                "alt": 
+                                "src": 
             "stimuli": [
                 {
-                    "video": [
+                    "audio": [
                         {
-                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/example_intro.webm",
-                            "type": "video/webm"
+                            "src": "https://raw.githubusercontent/Ar1780-lookit-stimuli-template/master/mp3/Intro_Wheel_50.mp3",
+                            "type": "audio/mp3"
                         },
                         {
-                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/example_intro.mp4",
-                            "type": "video/mp4"
+                            "src": "https://raw.githubusercontent/Ar1780-lookit-stimuli-template/master/mp3/Intro2_Wheel_50.mp3",
+                            "type": "audio/mp3"
                         }
                     ],
-                    "caption": "Before each pair of event videos, a woman introduces the object that will appear. Here's an example."
+                    "caption": "Before each set of trials, children will be shown a fortune wheel Here's an example."
                 },
                 {
-                    "video": [
+                    "audio": [
                         {
-                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/0_introsA.webm",
-                            "type": "video/webm"
+                            "src": "https://raw.githubusercontent/Ar1780-lookit-stimuli-template-master/mp3/Star_Feedback.mp3",
+                            "type": "audio/mp3"
                         },
                         {
-                            "src": "https://s3.amazonaws.com/lookitcontents/exp-physics-final/examples/0_introsA.mp4",
-                            "type": "video/mp4"
+                            "src": "https://raw.githubusercontent/Ar1780-lookit-stimuli-template-master/mp3/Nostar_Feedback.mp3",
+                            "type": "audio/mp3"
                         }
                     ],
-                    "caption": "Here are the other object introduction videos that might be shown. "
+                    "caption": "If the child gets the answer correct, they will be shown a star. If the child gets the answer incorrect, they will not get any stars."
                 }
             ],
-            "skipButtonText": "Skip preview",
-            "previewButtonText": "Preview the videos (my child cannot see the screen)",
             "showPreviousButton": true
         },
         "video-quality": {
