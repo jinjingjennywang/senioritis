@@ -1,0 +1,41 @@
+﻿Experiment Link:
+
+
+https://sites.sas.rutgers.edu/cognition/research/senioritis/RutgersCountGame.html
+
+
+Lookit Links:
+
+
+Slack:
+https://mit.enterprise.slack.com/?no_sso=1&redir=%2Fr-t470158583696%3Fredir%3D%252Fmessages
+Lookit Manual:
+https://lookit.readthedocs.io/_/downloads/en/develop/pdf/
+Github Links:
+https://github.com/lookit/lookit-stimuli-template
+https://lookit.github.io/lookit-frameplayer-docs/classes/Exp-frame-select.html
+https://github.com/Ar1780/lookit-stimuli-template/tree/master/mp3
+Basic JSON Instructions:  
+https://www.json.org/json-en.html
+
+
+
+
+Things to do in the meantime:
+
+
+* Add to CoCo Dev Lab
+* Familiarize with JSON
+* Create GitHub account
+
+
+Next steps on Lookit:
+
+
+1. Set a timer to proceed automatically after 5 seconds for spinning wheels (since we cannot press “spacebar” physically to stop them) 
+2. Use this template when implementing audio “https://raw.githubusercontent/Ar1780/lookit-stimuli-template/tree/master/mp3/[NAME OF FILE].mp3”
+3. Implement different frames for each different page (unless documentation on Lookit says otherwise; so far I think this is what needs to be done)
+4. Implement conditional logic from the beginning (practice trials)
+   1. https://lookit.readthedocs.io/en/develop/researchers-condition-assignment.html#conditional-logic
+5. Try to set Pooh, Piglet, and dots on the same page for pre-practice trials (if does not work, new images need to be created where Pooh, Piglet, and dots are on the same image)
+6. Change .wav file to .mp3 file for Bunny “Let’s play a game” (was not able to download from GitHub server)

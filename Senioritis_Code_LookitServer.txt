@@ -1,0 +1,219 @@
+﻿{
+    "frames": {
+        "exit-survey": {
+            "kind": "exp-lookit-exit-survey",
+            "debriefing": {
+                "text": "You and your child helped us understand how children react to probability and how it relates to number and math performance. We hope that you enjoyed the study and know how thankful we are for your participation. Our goal of discovering how young children learn about the world would not be possible without volunteers like you! Please tell your friends about your experience. We are always looking for new child scientists to join our community! To thank you for your participation, we'll be emailing you a $5 Amazon gift card - this should arrive in your inbox within the next week after we confirm your consent video and check that your child is in the age range for this study. (If you don't hear from us by then, feel free to reach out!) If you participate again with another child in the age range, you'll receive one gift card per child.",
+                "title": "Thank you for your participation!"
+            }
+        },
+        "instructions": {
+            "kind": "exp-lookit-instructions",
+            "blocks": [
+                {
+                    "title": "Overview of how to participate in this study",
+                    "listblocks": [
+                        {
+                            "text": "Your child does not need to be with you yet! First, let's go over what will happen in this study."
+                        },
+                        {
+                            "text": "During this study, your child will count different sets of dots and spin a fortune wheel with the chance of winnning a lucky star. There will be two practice trials followed by four trials for each of the four fortune wheels. You will have a chance to select a video privacy level at the end of the study, and you can leave at any point by pressing F1 or ctrl-X. You will see a little box pop up asking if you really want to end the study, and taking you straight to the exit survey if so. If you close this window/tab, you will get a generic warning (it's not possible to override that!) and if you choose to stay you will see that same box."
+                        },
+                        {
+                            "text": "Your child will have a chance to count one set of dots in the pre-practice trial before beginning the practice trials."
+                        },
+                        {
+                            "text": "The entire study should take no more than 30 minutes."
+                        }
+                    ]
+                },
+                {
+                    "text": "Please try playing this sample audio to make sure you'll be able to hear the instructions.",
+                    "title": "Adjust your speakers",
+                    "mediaBlock": {
+                        "text": "You should hear 'Lets play a game!'",
+                        "isVideo": false,
+                        "sources": [
+                            {
+                                "src": "https://raw.githubusercontent/Ar1780/lookit-stimuli-template/tree/master/mp3/LetsPlayAGame.mp3",
+                                "type": "audio/mp3",
+                                "image": {
+                                    "alt": "Bunny.",
+                                    "src": "https://https://sites.sas.rutgers.edu/cognition/research/senioritis/img/bunny.png"
+                                }
+                            }
+                        ],
+                        "mustPlay": true,
+                        "warningText": "Please try playing the sample audio."
+                    }
+                }
+            ],
+            "showWebcam": true,
+            "webcamBlocks": [
+                {
+                    "title": "Make sure we can see you",
+                    "listblocks": [
+                        {
+                            "text": "Take a look at your webcam view above. Get comfy, and adjust your own position or the computer as needed so both you and your child are visible."
+                        },
+                        {
+                            "text": "This isn't a Skype call - no one in the lab can see you - but the recorded video of your participation will be sent to the lab to help with data analysis. It's helpful for us to be able to see if your child was pointing or looking confused, for example."
+                        }
+                    ]
+                }
+            ],
+            "nextButtonText": "Next"
+        },
+        "pre-practice": {
+            "kind": "group",
+            "frameList": [
+                {
+                    "audio": "bunny01",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny01.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunny02",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny02.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunny11",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny11.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunny12",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny12.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunny13",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny13.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunny14",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny14.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunny15",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny15.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunny16",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunny16.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ]
+                },
+                {
+                    "audio": "bunnya01",
+                    "images": [
+                        {
+                            "id": "storybookIllustration",
+                            "src": "bunnya01.png",
+                            "top": 0,
+                            "left": 10,
+                            "width": 80
+                        }
+                    ],
+                    "doRecording": true
+                }
+            ],
+            "commonFrameProperties": {
+                "kind": "exp-lookit-images-audio",
+                "baseDir": "https://www.",
+                "audioTypes": [
+                    "mp3"
+                ],
+                "autoProceed": false,
+                "doRecording": false,
+                "parentTextBlock": {
+                    "css": {
+                        "font-size": "1.5em"
+                    },
+                    "text": "Please help keep your child's attention, but don't talk with him or her about how many dots each friend has!",
+                    "title": "For parents"
+                }
+            }
+        },
+        "video-config": {
+            "kind": "exp-video-config",
+            "troubleshootingIntro": "If you're having trouble getting your audio or video setup, please feel free to contact us at jinjing.jenny.wang@gmail.com and we'd be happy to help!"
+        },
+        "video-consent": {
+            "kind": "exp-lookit-video-consent",
+            "PIName": "Jenny Wang",
+            "datause": "We are primarily interested in your child's understanding of probability and how it relates to their number and math performance. A research assistant will watch your video to record your child's responses in the each of the different trials",
+            "payment": "After you finish the study, we will email you a $5 Amazon e-gift card within approximately one week. To be eligible for the gift card your child must be in the age range for this study, you need to submit a valid consent statement, and we need to see that there is a child with you. But we will send a gift card even if you do not finish the whole study or we are not able to use your child's data! There are no other direct benefits to you or your child from participating, but we hope you will enjoy the experience and we thank you for your contribution to science.",
+            "purpose": "How do children react to probabilities? This study will help us find out whether differences in probability will improve children's performance on math tasks",
+            "PIContact": "Jenny Wang jinjing.jenny.wang@gmail.com.",
+            "procedures": "For this study, your child will play a counting game to help Winnie the Pooh and Piglet figure out who has more dots. Your child will first identify the colors of Winnie the Pooh and Piglet. Then, they will recieve instructions on the probability of getting a star based on whether the wheel lands on Yellow or Gray in a pre-practice trial. Once completed and they agree to practice, they will recieve instructions on the probability of winning a star based on the amount of Yellow or Gray on the fortune wheel in the practice trial. Then, they will choose to count or skip two sets of dots. Whenever your child finds the right answer, they will spin the fortune wheel with a chance of winning a lucky star. For the real game, there will be four different sets of dots for each of the four fortune wheels. Before beginning each different trial, an image of Mickey Mouse will appear which gives the child the opportunity to take a break if needed, or continue to the next trial. The entire study should take approximately 30 minutes. There are no anticipated risks associated with participating.",
+            "institution": "Rutgers University - Newark"
+        }
+    },
+    "sequence": [
+        "video-config",
+        "video-consent",
+        "instructions",
+        "pre-practice",
+        "exit-survey"
+    ]
+}
