@@ -1,224 +1,248 @@
-[preparation]
- 
+Preparation
+
 Make sure the correct counterbalancing condition has been picked based on the counterbalancing sheet.
 Make sure the computer sound is on and volume is reasonable.
 Make sure the video chat window looks clean and professional.
- 
-[introduction]
- 
-Hello, my name is [your name], I am a researcher at Rutgers University.
+
+Introduction
+
+[Parents/Experimenter would first open the link]
+Hello, my name is ....
 Thank you for signing up for our research!
 Have you got a chance to read our consent form? Do you have any questions before we start?
-Are you okay with us recording? *START RECORDING HERE*
+Are you okay with us recording?
+
+[Here Parents/Experimenter would need to insert information on computer/tablet]
 Do you know if you have a mac or PC?
 What size is your screen?
 Do you happen to know your internet download speed?
 And upload speed?
-Great! Now let's warm up for the game with some simple questions:
-What's your name?
+Great! 
+(directed to child) Now let’s warm up for the game with some simple questions:
+What’s your name?
 How old are you?
-Today we'll be playing a counting game. 
+Today we’ll be playing a counting game. 
 Do you know how to count?
 Great! If you count and win in the game, you will spin a wheel to win some stars! 
 That sounds fun, right?
- 
-[tech setup]
- 
-Great! Before we start we're going to make sure that the game works right. 
+
+Tech setup
+
+Great! Before we start we’re going to make sure that the game works right. 
 (share screen on Google Meet)
- 
+
 First, we will make sure that you can see the game.
 Let me know when you see a bunny on your screen. 
- 
-Next, I'm going to play a sound and you're going to tell me if you can hear it, ok? [Press the "Ready" button]
+
+Next, I’m going to play a sound and you’re going to tell me if you can hear it, ok? 
+[Press the “Ready” button]
 *Play sound*
 Did you hear it? 
 (if cannot hear, ask parent to adjust volume, and click BACK until they can hear it comfortably)
 Great! 
- 
-(directed to parent) [Press "Ready" button again after hearing sound successfully]
-Now let's ask mom/dad to help us change the setup a little bit. [Press right arrow key]
-First, let's click the three little dots in the bottom right. [Press right arrow key]
-Next, click on Fullscreen. [Press right arrow key]
-And if you click the three little dots again, you will see an option to change the layout. [Press right arrow key]
-Next, click on layout. [Press right arrow key]
-And then select spotlight. [Press right arrow key]
-Now you should be seeing just the bunny on your screen, is that right? [Press right arrow key]
-Excellent, thank you so much!
- 
-[instruction]
- 
-Now we are all ready for the game!
-Today we are playing a number game with some friends.
-If you figure out who has more, you can win some stars!
 
-Let's see if you can win more stars than other kids! [Press right arrow key]
- 
-?
-This is our friend Pooh Bear. What color is Pooh Bear? [Press right arrow key]
-?
-And this is our friend Piglet. What color is Piglet?  [Press right arrow key]
-?
-Pooh will have some yellow/orange (depending on what the child says) dots like this [Press right arrow key once to show Pooh bear with gray box on the side, then again to show dots]
-?
-Piglet will have some pink (depending on what the child says) dots like this [Press right arrow key once to show Piglet with gray box on the side, then again to show dots]
-?
-[Press right arrow key again to show both on one screen] Your job is to help them figure out who has more.
+(directed to parent) 
+Can you please repeat what it just said?
+
+[Press “Ready” button again after hearing sound successfully]
+Now let’s ask mom/dad to help us change the setup a little bit. 
+[Press right arrow key]
+First, let’s click the three little dots in the bottom right. 
+[Press right arrow key]
+Next, click on fullscreen. 
+[Press right arrow key]
+And if you click the three little dots again, you will see an option to change the layout. 
+[Press right arrow key]
+Next, click on layout. 
+[Press right arrow key]
+And then select spotlight. 
+[Press right arrow key]
+Now you should be seeing just the bunny on your screen, is that right? 
+[Press right arrow key]
+Excellent, thank you so much!
+
+Experiment instruction
+
+Now we are all ready for the game!
+Today we are playing a number game with some friends. If you help them figure out who has more, you can win some stars!
+[Press right arrow key]
+Let’s see if you can win more stars than other kids! 
+[Press right arrow key]
+This is our friend Pooh Bear. What color is Pooh Bear? 
+[Press right arrow key]
+And this is our friend Piglet. What color is Piglet?  
+[Press right arrow key]
+Pooh will have some yellow/orange (depending on what the child says) dots like this 
+[Press right arrow key once to show Pooh bear with gray box on the side, then again to show dots]
+Piglet will have some pink (depending on what the child says) dots like this 
+[Press right arrow key once to show Piglet with gray box on the side, then again to show dots]
+[Press right arrow key again to show both on one screen] 
+Your job is to help them figure out who has more.
 You can choose to count and answer, or skip and see the next one.
-If you choose to skip, you don't get any stars.
-So do you want to count or skip for this one? (Counterbalance based on condition; e.g., can also say skip or count if in second instruction) 
- 
+If you choose to skip, you don’t get any stars.
+So do you want to count or skip for this one? 
+(Counterbalance based on condition; e.g., can also say skip or count if in second instruction) 
+
 [if they say count] Great, how many does Pooh have? How many does Piglet have? Who has more?
-[if they say skip] Remember, if you choose to skip, you don't get any stars. Do you want to count and see who has more?
+[if they say skip] Remember, if you choose to skip, you don’t get any stars. Do you want to count and see who has more?
+
+[after giving the right answer]
+That’s right!
 [Press right arrow key after they answer]
- ?
-Every time you get it right, you will get to spin this fortune wheel.
- ?
-Let's see where it stops this time! [Press right arrow key after 5 seconds to make the wheel stop] It stops at YELLOW! When it stops at YELLOW,
- ?
-[Press right arrow key to reveal the star]  you will get a star!
- ?
-[Press right arrow key to reveal wheel at gray] But if it stops at GRAY, [Press right arrow key again to reveal outcome] you will not get a star.
-?
-[Press right arrow key again to reveal Mickey] Let's see how many stars you can win at the end!
-Ready to practice? [Press right arrow key when ready]
-?
- 
-[practice]
- 
-50%: Look, this is the wheel you will spin later if your answer is right. Do you see that there is half YELLOW and half GRAY? That means, sometimes it will stop at YELLOW and you get a star, but sometimes it will stop at GRAY and you won't get any stars. 
- 
-(begin trial)
+
+Everytime you get it right, you will get to spin this fortune wheel.
+Let’s see where it stops this time! 
+[Press right arrow key after 5 seconds to make the wheel stop] 
+It stops at YELLOW! When it stops at YELLOW,
+[Press right arrow key to reveal the star]  
+you will get a star!
+
+[Press right arrow key to reveal wheel at gray] 
+But if it stops at GRAY, 
+[Press right arrow key again to reveal outcome] 
+you will not get a star.
+
+[Press right arrow key again to reveal Mickey] 
+Let’s see how many stars you can win at the end!
+Ready to practice? 
+[Press right arrow key when ready]
+
+
+Practice
+
+50%: Look, this is the wheel you will spin later if your answer is right. Do you see that there is half YELLOW and half GRAY? That means, sometimes it will stop at YELLOW and you get a star, but sometimes it will stop at GRAY and you will NOT get any stars. 
+
+Practice Trial 1
 [Press spacebar; show empty gray frames]
-[Press spacebar; computer prompts "Skip or Count" or "Count or Skip"]
+[Press spacebar; computer prompts “Skip or Count” or “Count or Skip”]
 Allow to choose skip or count/count skip, then ask questions
 How many does Pooh have?
 How many does Piglet have?
- 
+
 Alternative instructions if child does not recognize the characters:
 How many yellow/orange dots?
 How many pink dots?
- 
+
 Which one has more?
 [If choose to skip without counting, press spacebar]
 [If choose to skip after counting, press S]
 [If answer after counting, press F for Pooh, J for Piglet]
- 
+If children say “I don’t know” after counting, ask again Skip/Count or Count/Skip, in the same order as the condition they are in.
+And if they choose to skip this way, after counting, press S instead of space.
+If children seem to answer without counting, say “Remember, this is a counting game. Have you counted?”
+
 [Press spacebar after answer to see spinning wheel if correct]
- 
- 
- 
- ?
-Great! Now let's see where the wheel stops! [Press spacebar after 5 seconds to stop wheel]
-?
+
+Great! Now let’s see where the wheel stops! 
+[Wait 5 seconds to press spacebar again to reveal result]
+
 It stops at YELLOW!
-?
-[Press spacebar again to reveal star] You get a star!
-?
+[Press spacebar again to reveal star] 
+You get a star!
+
 You got a star, because your answer was right, and the wheel stopped at YELLOW!
- 
-Let's try another one!
+
+Practice Trial 2
+
+Let’s try another one!
 [Press spacebar; show empty gray frames]
-[Press spacebar; computer prompts "Skip or Count" or "Count or Skip"]
+[Press spacebar; computer prompts “Skip or Count” or “Count or Skip”]
 Allow to choose skip or count/count skip, then ask questions
-[Press spacebar; show empty gray frames]
-[Press spacebar; computer prompts "Skip or Count" or "Count or Skip"]
-Allow to choose to skip or count/count skip, then ask questions
 How many does Pooh have?
 How many does Piglet have?
- 
+
 Alternative instructions if child does not recognize the characters:
 How many yellow/orange dots?
 How many pink dots?
- 
+
 Which one has more?
 [If choose to skip without counting, press spacebar]
 [If choose to skip after counting, press S]
 [If answer after counting, press F for Pooh, J for Piglet]
- 
+If children say “I don’t know” after counting, ask again Skip/Count or Count/Skip, in the same order as the condition they are in.
+And if they choose to skip this way, after counting, press S instead of space.
+If children seem to answer without counting, say “Remember, this is a counting game. Have you counted?”
+
 [Press spacebar after answer to see spinning wheel if correct]
- 
- ?
-Great! Now let's see where the wheel stops! [Press spacebar after 5 seconds to stop wheel]
-[Press spacebar to reveal outcome]
+
+Great! Now let’s see where the wheel stops! 
+[Wait 5 seconds to press spacebar again to reveal result]
+
 It stops at GRAY! 
 Sorry, no star this time.
 There is no star this time, because the wheel stopped at GRAY.
- 
+
 Great! 
+
+End of Practice
+
 (bunny) 
 [Press READY for real game or BACK to practice depending on scenario]
+
 (if child got a star, move on to experiment) 
 I think you are ready for the real game! 
- 
+
 (if child did not get any star, repeat practice)
-Ummm, let's practice again and see if you can get any star!
- 
-(if chose "READY")
- 
-[experiment]
- 
+Ummm, let’s practice again and see if you can get any star!
+
+(if chose “READY”)
+
+Experiment
+
 For the real game, you will continue to use your counting skills to help Pooh and Piglet figure out who has more. 
-Let's see how many stars you can win at the end!
- 
+Let’s see how many stars you can win at the end!
+
 [Press spacebar]
- 
+
 (change in reward chance between blocks after 4 trials each)
 (Mickey)
-(describe wheel)
+
+Wheel Description
+
 25%: Look, this is the wheel you will spin later if your answer is right. Do you see that there is more GRAY than YELLOW? That means, sometimes it will stop at YELLOW and you get a star, but most of the time it will stop at GRAY and you will not get any stars. 
- 
+
 50%: Look, this is the wheel you will spin later if your answer is right. Do you see that there is half YELLOW and half GRAY? That means, sometimes it will stop at YELLOW and you get a star, but sometimes it will stop at GRAY and you will not get any stars. 
- 
+
 75%: Look, this is the wheel you will spin later if your answer is right. Do you see that there is more YELLOW than GRAY? Sometimes it will stop at GRAY and you will not get any stars, but most of the time it will stop at YELLOW and you will get a star. 
- 
+
 100%: Look, this is the wheel you will spin later if your answer is right. Do you see that there is only YELLOW? That means, it will always stop at YELLOW, and you will always get a star. 
- 
+
 [Press spacebar]
- 
-Let's try another one!
-[Press spacebar; show empty gray frames]
-[Press spacebar; computer prompts "Skip or Count" or "Count or Skip"]
-Allow to choose to skip or count/count skip, then ask questions
-[Press spacebar; show empty gray frames]
-[Press spacebar; computer prompts "Skip or Count" or "Count or Skip"]
-Allow to choose to skip or count/count skip, then ask questions
-How many does Pooh have?
-How many does Piglet have?
- 
-Alternative instructions if child does not recognize the characters:
-How many yellow/orange dots?
-How many pink dots?
- 
+
+Trial Instruction (repeat 4 times each block, for 4 blocks)
+
 Which one has more?
 [If choose to skip without counting, press spacebar]
 [If choose to skip after counting, press S]
 [If answer after counting, press F for Pooh, J for Piglet]
- 
+If children say “I don’t know” after counting, ask again Skip/Count or Count/Skip, in the same order as the condition they are in.
+And if they choose to skip this way, after counting, press S instead of space.
+If children seem to answer without counting, say “Remember, this is a counting game. Have you counted?”
+
 [Press spacebar after answer to see spinning wheel if correct]
- 
- ?
-Great! Now let's see where the wheel stops! [Press spacebar after 5 seconds to stop wheel]
- 
-[change in reward chance between blocks after 6 trials each]
+[Wait 5 seconds to press spacebar again to reveal result]
+
+Trial Transition
+[change in reward chance between blocks after 4 trials each]
 (Mickey)
 Look how many stars you got, great job! 
 Are you ready for the next part? 
 Great!
- 
-(repeat)
- 
- 
-[debrief]
+
+See how the wheel looks different now?
+
+Repeat Wheel Description
+Repeat Trial Instruction
+
+
+End of Experiment
+
 (Pause at Mickey Mouse)
 Great job! You are all done!
 I hope you had fun today!
-(If parents ask, we don't say individual performance, we average children's performance to see how children's motivation changes according to the probability of star). 
+(If parents ask, we don’t say individual performance, we average children’s performance to see how children’s motivation changes according to the probability of star). 
 Today you have helped us understand how children react to probability and how it relates to number and math performance.
 You have been doing a great job, and we will trade all the stars you earned in the game for a gift card.
 Do you have any questions for us?
 
-
-
- 
-
+Click Download to download .csv data file or code responses from video recording.
